@@ -23,7 +23,7 @@ User can vote the Candidate, and Admin has the permission to see the vote detail
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
+- In URI paste this url: https://github.com/shinydev1992/voting-application-spring.git
   -> Next
 -  Now in Local Destination
 
@@ -72,9 +72,6 @@ User can vote the Candidate, and Admin has the permission to see the vote detail
  - Now in Browser Type Url: http://localhost:9002
 -  Note: In Url put Port according to your application.properties file.
  -  Application will get Open.
-
- ### Try Javascript Version 
-url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 ### Some Screenshots of this Project:
